@@ -1,0 +1,6 @@
+{
+  "name": "HitAlert",
+  "description": "Real-time temperature monitoring, battery health tracking, and smart overheat protection with live charts, performance reports, and one-tap cooling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
